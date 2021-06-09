@@ -1,0 +1,82 @@
+ .my_nav{
+     box-shadow: 0px 2px 8px rgba(0, 0, 0, 0.3);
+     background-color: rgba(255 255 255 / 86%) !important;
+     backdrop-filter: blur(10px);
+ }
+
+.main-header{
+    background-image: url(../img/banner.jpg);
+    /* background-repeat: no-repeat; */
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    padding-top: 150px;
+    padding-bottom: 100px;
+}
+
+.header-text-holder{
+    text-align: center;
+    color: white;
+}
+
+.subscribe-holder{
+    text-align: center;
+}
+
+.my_card h3{
+    font-size: 1.2em;
+}
+
+.home-body-content{
+    padding-top: 50px;
+    padding-bottom: 40px;
+}
+
+.my_card:hover{
+    box-shadow: 2px 2px 12px rgba(0, 0, 0, 0.3);
+}
+
+.main-footer{
+    padding-bottom: 20px;
+    padding-top: 25px;
+    background-color: gray; 
+    color: white;
+}
+
+footer .main-footer p{
+    margin: 0px;
+}
+
+.default-header{
+ 
+    background-image: url(../img/banner.jpg);
+    /* background-repeat: no-repeat; */
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    padding-top: 80px;
+    padding-bottom: 60px;
+}
+
+.default-header-text-holder{
+    /* text-align: center; */
+    color: white;
+}
+
+.default-header-text-holder h1{
+    font-size: 2em;
+}
+
+
+
+.default-body-content .list-group .list-group-item h1{
+    /* color: teal; */
+    font-size: 2em;
+}
+
+.default-body-content .list-group .list-group-item{
+    color: black;
+    margin-bottom: 20px;
+}
